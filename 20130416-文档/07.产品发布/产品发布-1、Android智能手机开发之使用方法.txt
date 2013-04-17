@@ -1,0 +1,9 @@
+1、Android系统zip刷机包的安装
+A、本系统适用机型为HTC G10（Desire HD or Inspire 4G）
+B、拷贝cm-7-20130417-UNOFFICIAL-ace.zip到手机SD卡根目录（从《产品发布-2、Android智能手机开发之Android刷机包》中解压出来）
+C、关机后，按住音量下键然后按开机键，5秒钟后，系统进入HBoot模式
+D、选择Recovery模式，选择zip格刷机
+
+
+2、上层模块的安装
+按照普通apk包安装方法安装即可，无特殊需求！
